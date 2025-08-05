@@ -1,51 +1,43 @@
-# 🎁 Desafio Amigo Secreto - Oracle Next Education (ONE) + Alura
+# 🎁 Amigo Secreto - Projeto ONE
 
-Este repositório contém a solução do **Desafio Amigo Secreto**, proposto dentro do programa [Oracle Next Education (ONE)](https://www.oracle.com/br/education/oracle-next-education/) em parceria com a Alura.  
-O desafio é uma aplicação prática da metodologia **Challenge-Based Learning**, que visa desenvolver a **lógica de programação** e promover o **pensamento computacional** por meio da resolução de problemas reais.
-
----
-
-## 💡 Sobre o Projeto
-
-O **Desafio Amigo Secreto** é uma atividade que simula o tradicional jogo de "amigo oculto", permitindo sortear participantes de forma aleatória sem repetições, garantindo que ninguém tire a si mesmo.
-
-Essa atividade é parte da trilha de aprendizagem do programa, e tem como objetivo:
-- Consolidar o conhecimento sobre **variáveis, estruturas de controle e arrays**;
-- Praticar a **resolução de problemas**;
-- Estimular o pensamento lógico aplicado à programação;
-- Incentivar a aplicação da metodologia *mão na massa*.
+Este projeto é um desafio prático baseado no programa **ONE da Oracle + Alura**, que ajuda a consolidar conhecimentos em lógica de programação e JavaScript.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📚 Sobre o Projeto
 
-- **JavaScript**
-- **HTML5**
-- **CSS3** 
-- Ambiente: Navegador ou Editor de Código (VS Code)
+Amigo Secreto é uma aplicação simples para cadastrar nomes de amigos, listar os participantes e sortear aleatoriamente um amigo para cada um.
 
----
+O objetivo é praticar conceitos fundamentais como:
 
-## 🚀 Funcionalidades
-
-- Adição de participantes ao sorteio
-- Realização do sorteio de forma automática
-- Visualização dos resultados de forma simples e interativa
+- 🗂️ Manipulação de arrays  
+- 🌐 Interação com o DOM (Document Object Model)  
+- ✅ Validação de entrada de dados  
+- 🔄 Uso de funções e controle de fluxo em JavaScript  
 
 ---
 
-## 📚 O que você vai aprender
+## ⚙️ Funcionalidades
 
-- Sintaxe básica do JavaScript
-- Manipulação de arrays
-- Estruturas condicionais e de repetição
-- Criação de funções reutilizáveis
-- Lógica aplicada à resolução de problemas
+- ➕ Adicionar nomes de amigos à lista  
+- 📋 Exibir a lista atualizada dos amigos  
+- 🎲 Sortear um amigo aleatoriamente e mostrar o resultado na tela  
 
 ---
 
-## 📂 Como executar o projeto
+## 🛠️ Tecnologias
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/alsrodrigo/challenge-amigo-secreto.git
+- 🧩 HTML  
+- 🎨 CSS  
+- 💻 JavaScript
+
+---
+
+## 🚀 Como usar
+
+1. ✍️ Digite o nome de um amigo no campo de texto.  
+2. ➕ Clique em **Adicionar** para inserir na lista.  
+3. 🎯 Após adicionar todos os nomes, clique em **Sortear amigo** para ver quem foi sorteado.  
+4. 👀 O resultado aparecerá abaixo da lista.  
+
+---
